@@ -1,0 +1,10 @@
+c "Inventory Test #6"
+c "Verify Freak the bard is in the encounter"
+c "Verify Freak has an inventory"
+c "P 6 should fail"
+
+s p z 18
+
+
+p 18
+p 6

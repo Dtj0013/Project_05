@@ -129,6 +129,16 @@
             "agility" : 17,
             "weapon_damage" : 4, 
             "inventory" : []
+        },
+        {
+            "UID" : 18, 
+            "hp" : 15,
+            "Name" : "Freak the Bard",
+            "race" : "Human",
+            "class" : "Bard",
+            "intelligence" : 17,
+            "weapon_damage" : 8, 
+            "inventory" : []
         }
     ],
     "items" : 
